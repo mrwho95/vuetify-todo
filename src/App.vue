@@ -90,6 +90,7 @@ export default {
       items: [
         { title: 'Todo', icon: 'mdi-format-list-checks', to: '/' },
         { title: 'Photos', icon: 'mdi-image', to: '/about'},
+        { title: 'Photos', icon: 'mdi-image', to: '/count'},
       ],
   }),
 };
